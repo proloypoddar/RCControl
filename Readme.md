@@ -11,7 +11,7 @@ The **RCControl** library is designed to simplify the control of DC motors using
 ## Getting Started
 
 ### Installation
-1. Download the RCControl library files.
+1. Download the RCControl library files from the following link: [Download RCControl Library](https://drive.google.com/file/d/1kqHSKyN_Dj-WhgXVu19iYKB4t9NhJmMk/view?usp=sharing).
 2. Place the downloaded files in your Arduino libraries folder (typically located in `Documents/Arduino/libraries`).
 3. Restart the Arduino IDE to recognize the new library.
 
